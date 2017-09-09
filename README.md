@@ -34,10 +34,6 @@ Coursera uses Rust as part of its [secure docker containers for student assignme
 
 Dropbox uses Rust in a number of places in both its server and client, including [key places of its cloud storage](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/).
 
-## Google
-
-Google is working on a new operating system called Fuchsia, parts of which are [writen in Rust](https://fuchsia.googlesource.com/magenta-rs/+/88580e68f95830124e09f727c3090408056755ea/GETTING_STARTED.md).
-
 ## Facebook
 
 Facebook is building an experimental, next-gen [Mercial server in Rust](https://github.com/facebookexperimental/mononoke).
@@ -45,6 +41,10 @@ Facebook is building an experimental, next-gen [Mercial server in Rust](https://
 ## GNOME
 
 The GNOME project is using Rust in a few places, including [progressively converting librsvg from C to Rust](https://people.gnome.org/~federico/blog/guadec-2017.html).  There have also been [hackfests to help convert other areas to Rust](http://zee-nix.blogspot.co.nz/2017/04/gnome-rust-hackfest-in-mexico.html).
+
+## Google
+
+Google is working on a new operating system called Fuchsia, parts of which are [writen in Rust](https://fuchsia.googlesource.com/magenta-rs/+/88580e68f95830124e09f727c3090408056755ea/GETTING_STARTED.md).
 
 ## Microsoft
 
