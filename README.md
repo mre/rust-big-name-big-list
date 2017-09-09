@@ -2,6 +2,10 @@
 
 The following is a list of "big name" companies and groups that use Rust.  To qualify, the name must be generally well-known in the software industry.
 
+## Atlassian
+
+Usage not yet known, but [publically announced they're using Rust](https://twitter.com/niborst/status/902460932084736000).
+
 ## Canonical
 
 Ubuntu creator Canonical is using Rust in everything from server monitoring to middleware. (reference: [friends page](https://www.rust-lang.org/en-US/friends.html))
@@ -61,6 +65,10 @@ Samsung uses Rust in its [Smart Things hub](https://www.smartthings.com/how-it-w
 ## Tor
 
 The Tor project has been [working to incorporate Rust](https://lists.torproject.org/pipermail/tor-dev/2017-March/012088.html).
+
+## Tumblr
+
+Usage not yet known, but [publically announced they're using Rust](https://twitter.com/pearapps/status/902485357178048512).
 
 ## VMware
 
