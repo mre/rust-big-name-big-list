@@ -36,7 +36,7 @@ Dropbox uses Rust in a number of places in both its server and client, including
 
 ## Facebook
 
-Facebook is building an experimental, next-gen [Mercial server in Rust](https://github.com/facebookexperimental/mononoke).
+Facebook is building an experimental, next-gen [Mercurial server in Rust](https://github.com/facebookexperimental/mononoke).
 
 ## GNOME
 
@@ -44,7 +44,7 @@ The GNOME project is using Rust in a few places, including [progressively conver
 
 ## Google
 
-Google is working on a new operating system called Fuchsia, parts of which are [writen in Rust](https://fuchsia.googlesource.com/magenta-rs/+/88580e68f95830124e09f727c3090408056755ea/GETTING_STARTED.md).
+Google is working on a new operating system called Fuchsia, parts of which are [written in Rust](https://fuchsia.googlesource.com/magenta-rs/+/88580e68f95830124e09f727c3090408056755ea/GETTING_STARTED.md).
 
 ## Microsoft
 
