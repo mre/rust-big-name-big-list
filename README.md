@@ -76,7 +76,7 @@ The Tor project has been [working to incorporate Rust](https://lists.torproject.
 
 ## Tumblr
 
-Usage not yet known, but [publically announced they're using Rust](https://twitter.com/pearapps/status/902485357178048512).
+Tumblr is using Rust to build some of its [dev tools](https://twitter.com/pearapps/status/906618364340133893).
 
 ## VMware
 
