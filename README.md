@@ -2,9 +2,17 @@
 
 The following is a list of "big name" companies and groups that use Rust.  To qualify, the name must be generally well-known in the software industry.
 
+## Amazon
+
+[Amazon is hiring Rust developers](https://www.amazon.jobs/en/jobs/559813/sr-software-development-engineer).
+
 ## Atlassian
 
 Usage not yet known, but [publically announced they're using Rust](https://twitter.com/niborst/status/902460932084736000).
+
+## Baidu
+
+Baidu uses Rust in its [Intel SGX enclave programming](https://github.com/baidu/rust-sgx-sdk) for secure development.
 
 ## Canonical
 
