@@ -52,7 +52,7 @@ Microsoft ships Visual Studio Code, a popular editor, whose [search functionalit
 
 ## Mozilla
 
-Mozilla has a number of Rust uses including funding Rust development itself, helping create the Servo browser engine, and shipping a growing amount of Rust in Firefox itself.
+Mozilla has a number of Rust uses including funding Rust development itself, helping create the Servo browser engine, and shipping a growing amount of [Rust in Firefox itself](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/).
 
 ## npm, Inc
 
