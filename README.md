@@ -1,6 +1,6 @@
 # List of Rust use by well-known companies and groups
 
-The following is a list of "big name" companies and groups that use Rust.  To qualify, the name must be generally well-known in the software industry.
+The following is a list of "big name" companies and groups that use Rust.  To qualify, the name must be generally well-known in the software industry.  If you know of others and/or know of updates to what I have, feel free to send a PR to this list.
 
 ## Amazon
 
