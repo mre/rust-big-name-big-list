@@ -1,4 +1,4 @@
-List of Rust use by well-known companies and groups
+# List of Rust use by well-known companies and groups
 
 The following is a list of "big name" companies and groups that use Rust.  To qualify, the name must be generally well-known in the software industry.
 
@@ -28,7 +28,7 @@ Google is working on a new operating system called Fuchsia, parts of which are [
 
 ## Facebook
 
-Facebook has a Mercial server... LINK LINK
+Facebook is building an experimental, next-gen [Mercial server in Rust](https://github.com/facebookexperimental/mononoke).
 
 ## GNOME
 
